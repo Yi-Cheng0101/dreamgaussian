@@ -21,7 +21,7 @@ dearpygui
 
 # for stable-diffusion
 huggingface_hub
-diffusers
+diffusers >= 0.9.0
 accelerate
 transformers
 
